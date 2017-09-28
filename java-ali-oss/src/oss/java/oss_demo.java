@@ -15,6 +15,11 @@ import com.aliyun.oss.model.Bucket;
 import com.aliyun.oss.model.GetObjectRequest;
 import com.aliyun.oss.model.OSSObject;
 
+/*
+ * LC
+ * 2017-9-28 12:08:44
+ */
+
 public class oss_demo {
 	
 	
